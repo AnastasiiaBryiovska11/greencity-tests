@@ -5,8 +5,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from time import sleep
 
-#1111Nnn/
-#anastasiia.b.second@gmail.com
 
 
 BASE_URL = "https://www.greencity.cx.ua/#/greenCity/events"
